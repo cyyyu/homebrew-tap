@@ -1,13 +1,11 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook.html
+# Documentation: https://docs.brew.sh/Formula-Cookbook
 #                http://www.rubydoc.info/github/Homebrew/brew/master/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-
 class Dt < Formula
-  desc "😈 Command line todo list manager."
+  desc "Your missing command line todo list manager."
   homepage ""
-  url "https://github.com/cyyyu/dt/releases/download/v1.1.0/dt"
-  sha256 "63a08130d6d6b3085912db219c7ac885fb5f53081b88af7f561d1c61814a4240"
-
+  url "https://github.com/cyyyu/dt/releases/download/v1.1.1/dt"
+  sha256 "bf33423ea1ed0ec1de077dcd7b42703af2bda2c259f46a351e3c3834155f2f95"
   # depends_on "cmake" => :build
 
   def install
