@@ -4,8 +4,8 @@
 class Dt < Formula
   desc "Your missing command line todo list manager."
   homepage ""
-  url "https://github.com/cyyyu/dt/releases/download/v1.1.1/dt"
-  sha256 "bf33423ea1ed0ec1de077dcd7b42703af2bda2c259f46a351e3c3834155f2f95"
+  url "https://github.com/cyyyu/dt/releases/download/v1.2.0/dt"
+  sha256 "02a93a8f967332a17f34fb3a2f4467f37a6f089f5409c5c66aed5464c2783a1d"
   # depends_on "cmake" => :build
 
   def install
